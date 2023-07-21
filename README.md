@@ -76,9 +76,8 @@ Use Mothod DoRequestV2 if you want response format:
     }
 ```
 
-```
 
-##Soure description
+## Soure description
 
 Project core: Cloud_Net_Sdk_Hmac_Lib
 Project for testing: Cloud_Net_Sdk_Hmac_Api and Cloud_Net_Sdk_Hmac_Client
@@ -88,7 +87,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##Requirements
+## Requirements
 The connecting client must have possession of the following credentials: 
 Client ID
 Client Secret 
