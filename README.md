@@ -78,6 +78,10 @@ Use Mothod DoRequestV2 if you want response format:
 
 ```
 
+##Soure description
+
+Project core: Cloud_Net_Sdk_Hmac_Lib
+Project for testing: Cloud_Net_Sdk_Hmac_Api and Cloud_Net_Sdk_Hmac_Client
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
