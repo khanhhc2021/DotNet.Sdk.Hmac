@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud_Net_Sdk_Hmac_Api", "Cloud_Net_Sdk_Hmac_Api\CLOUD_NET_SDK_HMAC_API.csproj", "{A2BF8300-7C45-4A43-A549-A084861C846B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud_Net_Sdk_Hmac_Client", "Cloud_Net_Sdk_Hmac_Client\CLOUD_NET_SDK_HMAC_CLIENT.csproj", "{E6CA366F-B18D-426A-98C1-BFEB197FFDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud_Net_Sdk_Hmac_Lib", "Cloud_Net_Sdk_Hmac_Lib\CLOUD_NET_SDK_HMAC_LIB.csproj", "{4A109FC4-F7BC-4620-898B-13277B295EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BF8300-7C45-4A43-A549-A084861C846B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BF8300-7C45-4A43-A549-A084861C846B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BF8300-7C45-4A43-A549-A084861C846B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BF8300-7C45-4A43-A549-A084861C846B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CA366F-B18D-426A-98C1-BFEB197FFDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CA366F-B18D-426A-98C1-BFEB197FFDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CA366F-B18D-426A-98C1-BFEB197FFDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CA366F-B18D-426A-98C1-BFEB197FFDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A109FC4-F7BC-4620-898B-13277B295EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A109FC4-F7BC-4620-898B-13277B295EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A109FC4-F7BC-4620-898B-13277B295EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A109FC4-F7BC-4620-898B-13277B295EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabsToSpaces = True
+		$1.EolMarker = Unix
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
